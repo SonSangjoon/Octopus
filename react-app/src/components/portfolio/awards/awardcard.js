@@ -2,7 +2,7 @@ import React from 'react';
 import { useEffect, useState } from "react";
 import axios from 'axios';
 import "react-datepicker/dist/react-datepicker.css";
-import { Box, useToast, Stack, Button, Input, InputGroup,InputRightElement, Text, ScaleFade } from "@chakra-ui/react"
+import { Button } from "@chakra-ui/react"
 
 const Url = `http://elice-kdt-ai-track-vm-racer-29.koreacentral.cloudapp.azure.com:5000`
 

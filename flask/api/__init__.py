@@ -11,7 +11,7 @@ from flask_jwt_extended import (
 )
 
 from resources.auth import auth
-from resources.educationinfo import EducationInfo
+# from resources.educationinfo import EducationInfo
 from resources.awardsinfo import AwardsInfo
 from resources.certificationsinfo import CertificationsInfo
 from resources.projectsinfo import ProjectsInfo
